@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025209/img9_rvhe1v.jpg ",
+      "title": " Wool Crop Jacket ",
+      "price": 49.99
+    },
+    {
+      "id": 2,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025208/img7_fjp7c1.jpg",
+      "title": " korean style Jacket ",
+      "price": 39.99
+    },
+    {
+      "id": 3,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025208/img6_uffhad.jpg",
+      "title": "Leather Jacket",
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025207/img4_og5xsu.jpg",
+      "title": "long Coats",
+      "price": 99.99
+    },
+    {
+      "id": 5,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025206/img2_ngpdgm.jpg",
+      "title": "Denim Jacket",
+      "price": 59.99
+    },
+    {
+      "id": 6,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025206/img3_mk5u4q.jpg",
+      "title": "Leather Jacket",
+      "price": 149.99
+    },
+    {
+      "id": 7,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025206/img20_a3xuge.jpg",
+      "title": "cargo white pant",
+      "price": 79.99
+    },
+    {
+      "id": 8,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025205/img19_wo8yul.jpg",
+      "title": "cargo pant",
+      "price": 49.99
+    },
+    {
+      "id": 9,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025208/img8_u0iknd.jpg",
+      "title": " Wool Sweater",
+      "price": 39.99
+    },
+    {
+      "id": 10,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025204/img18_synzfg.jpg",
+      "title": "cargo pant",
+      "price": 129.99
+    },
+    {
+      "id": 11,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025203/img17_ucq8so.jpg",
+      "title": "loose sweater",
+      "price": 19.99
+    },
+    {
+      "id": 12,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025207/img5_rgj0ew.jpg",
+      "title": "Denim Jacket",
+      "price": 69.99
+    },
+    {
+      "id": 13,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025202/img16_r9zyms.jpg",
+      "title": "Vneck sweater",
+      "price": 29.99
+    },
+    {
+      "id": 14,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025202/img15_axdqax.jpg",
+      "title": "korean sweater",
+      "price": 59.99
+    },
+    {
+      "id": 15,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025202/img11_emzocu.jpg",
+      "title": "korean sweater",
+      "price": 49.99
+    },
+    {
+      "id": 16,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025202/img14_wze9ir.jpg",
+      "title": "Peacoat",
+      "price": 89.99
+    },
+    {
+      "id": 17,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025201/img13_jhuy48.jpg",
+      "title": "loose sweater",
+      "price": 34.99
+    },
+    {
+      "id": 18,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025201/img12_dr7uhg.jpg",
+      "title": " Wool Sweater",
+      "price": 59.99
+    },
+    {
+      "id": 19,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025201/img1_ygcldd.jpg",
+      "title": "Puffer Jacket",
+      "price": 119.99
+    },
+    {
+      "id": 20,
+      "image": "https://res.cloudinary.com/doirsw63f/image/upload/v1739025202/img10_dimg9w.jpg",
+      "title": "dress",
+      "price": 69.99
+    }
+  ]
+}
