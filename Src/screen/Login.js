@@ -29,6 +29,8 @@ const Login = () => {
     try {
       await auth().signInWithEmailAndPassword(email.trim(), password);
       Alert.alert('Login Successful', 'Welcome back!');
+
+      navigation.replace("MainTabs");
       // ✅ NO need to call navigation.navigate here
       // App.js will detect login and show MainTabs (Home tab)
     } catch (error) {
